@@ -1,0 +1,28 @@
+_repo: Lodore-Vol-2-of-3_64556
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shelley, Mary Wollstonecraft
+    aliases:
+    - Shelley, Mary W.
+    - Shelley, Mary Wollstonecraft Godwin
+    birthdate: 1797
+    deathdate: 1851
+    gutenberg_agent_id: '61'
+    url: http://www.gutenberg.org/2009/agents/61
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+description: ''
+gutenberg_issued: '2021-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Women -- Social conditions -- 19th century -- Fiction'
+- GITenberg
+title: Lodore, Vol. 2 (of 3)
+url: http://www.gutenberg.org/ebooks/64556
